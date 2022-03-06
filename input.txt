@@ -1,0 +1,53 @@
+4
+Affirmation
+Savage Garden
+Media/Affirmation.jpg
+1
+4
+Affirmation
+sounds/Affirmation/Affirmation.mp3
+Hold Me
+sounds/Affirmation/Hold_Me.mp3
+I knew I Loved You
+sounds/Affirmation/I_Knew_I_Loved_You.mp3
+The Best Thing
+sounds/Affirmation/The_Best_Thing.mp3
+Millenium
+Backstreet Boys
+Media/BackstreetBoys.jpg
+2
+4
+Larger Than Life
+sounds/Millennium/Larger_Than_Life.mp3
+I Want It That Way
+sounds/Millennium/I_Want_It_That_Way.mp3
+Show Me The Meaning
+sounds/Millennium/Show_Me_the_Meaning.mp3
+It's Gotaa Be You
+sounds/Millennium/It's_Gotta_Be_You.mp3
+S Club 7
+S Club 7
+Media/SClub7.jpg
+3
+4
+Dont Stop Moving
+sounds/SClub7/Don_t_Stop_Movin.mp3
+Show Me Your Colours
+sounds/SClub7/Show_Me_Your_Colours.mp3
+You
+sounds/SClub7/You.mp3
+Have You Ever
+sounds/SClub7/Have_You_Ever.mp3
+My World 2.0
+Justin Bieber
+Media/JustinBieber.jpg
+4
+4
+Baby
+sounds/My_World_2.0/Baby.mp3
+Somebody to Love
+sounds/My_World_2.0/Somebody_To_Love.mp3
+Stuck in the Moment
+sounds/My_World_2.0/Stuck_In_The_Moment.mp3
+U Smile
+sounds/My_World_2.0/U_Smile.mp3
